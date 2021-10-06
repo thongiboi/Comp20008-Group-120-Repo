@@ -1,5 +1,4 @@
-﻿,Government,,Catholic,,Independent,,Total Sum of FTE Enrolments,Total Sum of No Of Schools
-Row Labels,Sum of FTE Enrolments,Sum of No Of Schools,Sum of FTE Enrolments,Sum of No Of Schools,Sum of FTE Enrolments,Sum of No Of Schools,,
+﻿Row Labels,Sum of FTE Enrolments (Government),Sum of No Of Schools (Government),Sum of FTE Enrolments (Catholic),Sum of No Of Schools (Catholic),Sum of FTE Enrolments (Independent),Sum of No Of Schools (Independent),Total Sum of FTE Enrolments,Total Sum of No Of Schools
 Alpine (S),1397.6,9,343.4,2,,,1741,11
 Ararat (RC),1061.5,11,687,2,,,1748.5,13
 Ballarat (C),10691.2,28,6288.4,14,3174.9,4,20154.5,46
@@ -80,4 +79,3 @@ Wyndham (C),26480.6,29,9411,14,6510,5,42401.6,48
 Yarra (C),8329.6,18,1611.2,5,970,4,10910.8,27
 Yarra Ranges (S),17315.6,59,4172.8,10,3884.7,11,25373.1,80
 Yarriambiack (S),872.2,11,169.2,3,,,1041.4,14
-Grand Total,603795,1528,209055.3,492,139327.3,219,952177.6,2239
